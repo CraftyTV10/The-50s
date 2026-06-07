@@ -1,0 +1,26 @@
+mod = "The 50s"
+description = "Portal 2 singleplayer campaign"
+type = "campaign"
+thumbnail = ""
+authors = [ "CTV" ]
+dependencies = [  ]
+tags = 
+[
+	"Singleplayer"
+]
+ignore = [  ]
+metadata = 
+{
+}
+assets = 
+{
+}
+loading_screen =
+meta = {
+	loading_screen="loading_screen.png"
+}
+
+transition_screen = 
+meta = {
+	loading_screen="loading_screen.png"
+}
