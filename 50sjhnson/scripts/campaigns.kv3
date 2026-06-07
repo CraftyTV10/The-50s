@@ -136,9 +136,20 @@
                             meta =
                             {
                                 title = "Island Jump"
-				                img = "c03.png"
+				                img = "lvl8.png"
                                 loading_screen = "loadingscreen.png"
-                                transition_screen = "loadingscreen.png"
+                                transition_screen = "enc_2.png"
+                            }
+                        },
+                         {
+                            name = "c03_03"
+
+                            meta =
+                            {
+                                title = "Jumpy Cube"
+				                img = "lvl9.png"
+                                loading_screen = "loadingscreen.png"
+                                transition_screen = "load_enc_3.png"
                             }
                         },
                     ]
