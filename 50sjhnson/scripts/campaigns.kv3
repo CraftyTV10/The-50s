@@ -1,0 +1,153 @@
+{
+    campaigns =
+    {
+        "50sjhnson" =
+        {
+            title = "The 50s"
+            basePath = "file://{workshop1}50sjhnson/.assets/"
+
+	    meta =
+            {
+	      selector_cover = "logo2.png"
+              chapter_display_mode = "super"
+	      full_logo = "logo.png"
+	      description = "Meine Kampagne"
+              author = "CraftyTV"
+	      selector_button_background = "bg.png"
+             }
+            chapters =
+            [
+                {
+                    title = "1953"
+                    maps =
+                    [
+                        {
+                            name = "c01_01"
+
+                            meta =
+                            {
+                                title = "Aperture Lobby"
+				img = "c01.png"
+                                loading_screen = "loadingscreen.png"
+                                transition_screen = "loadingscreen.png"
+                            }
+                        },
+                        {
+                            name = "c01_02"
+
+                            meta =
+                            {
+                                title = "Train Ride"
+				img = "lvl02.png"
+                                loading_screen = "loadingscreen.png"
+                                transition_screen = "loadingscreen.png"
+                            }
+                        },
+                        {
+                            name = "c01_03"
+
+                            meta =
+                            {
+                                title = "Sphere Entrance"
+				img = "lvl03.png"
+                                loading_screen = "loadingscreen.png"
+                                transition_screen = "loadingscreen.png"
+                            }
+                        }
+                    ]
+                    meta = {
+                    thumbnail = "c01.png"
+                    background_image = "mmbg1.png"
+                    }
+                },
+
+                {
+                    title = "The Testing"
+                    maps =
+                    [
+                        {
+                            name = "c02_01"
+
+                            meta =
+                            {
+                                title = "Bounce Gel"
+				img = "c02.png"
+                                loading_screen = "load_enc.png"
+                                transition_screen = "load_enc.png"
+                            }
+                        },
+			{
+                            name = "c02_02"
+
+                            meta =
+                            {
+                                title = "Bounce Fly"
+				img = "lvl05.png"
+                                loading_screen = "enc_2.png"
+                                transition_screen = "enc_2.png"
+                            }
+                        },
+                        {
+                            name = "c02_03"
+
+                            meta =
+                            {
+                                title = "Catapult Intro"
+				img = "lvl06.png"
+                                loading_screen = "load_enc_3.png"
+                                transition_screen = "load_enc_3.png"
+                            }
+                        },
+                        {
+                            name = "c02_04"
+
+                            meta =
+                            {
+                                title = "Catapultin´ Gel"
+                                			img = "level07.png"
+                                loading_screen = "load_enc.png"
+                                transition_screen = "load_enc.png"
+                            }
+                        }
+                    ]
+                    meta = {
+                    thumbnail = "c02.png"
+                    background_image = "mmbg2.png"
+                    }
+                },
+                {
+                    title = "The Paint Initative"
+                    maps =
+                    [
+                        {
+                            name = "c03_01"
+
+                            meta =
+                            {
+                                title = "The Paint Gun"
+				img = "c03.png"
+                                loading_screen = "loadingscreen.png"
+                                transition_screen = "loadingscreen.png"
+                            }
+                        },
+                        {
+                            name = "c03_02"
+
+                            meta =
+                            {
+                                title = "Island Jump"
+				                img = "c03.png"
+                                loading_screen = "loadingscreen.png"
+                                transition_screen = "loadingscreen.png"
+                            }
+                        },
+                    ]
+                    meta = {
+                    thumbnail = "c03.png"
+                    background_image = "mmbg3.png"
+                    }
+                }
+            ]
+        }
+    }
+}
